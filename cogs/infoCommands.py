@@ -257,8 +257,7 @@ class InfoCommands(commands.Cog):
 
 
 
-            embed.set_footer(text="DEVELOPED BY VORTEX XITERS
-https://cdn.discordapp.com/attachments/1388464525551861894/1399635666249322576/ChatGPT_Image_Jul_17_2025_01_14_46_AM.png?ex=6889b7ca&is=6888664a&hm=6e9523ba9d3c13020bedb2b10faf6c40d938c8880d1d7b874d98e672f8bf1d60&")
+            embed.set_footer(text="DEVELOPED BY VORTEX XITERS")
             await ctx.send(embed=embed)
 
             if region and uid:
